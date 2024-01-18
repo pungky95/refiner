@@ -1,4 +1,4 @@
-package filter
+package refiner
 
 import "golang.org/x/exp/constraints"
 
